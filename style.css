@@ -7,3 +7,23 @@
     top: 200px;
     left: 535px;
 }
+
+.post_advantages {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border: 2px solid red;  /* Adjust as needed */
+    background-color: transparent;
+    top: 200px;
+    left: 1000px;
+}
+
+.post_disadvantages {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border: 2px solid blue;  /* Adjust as needed */
+    background-color: transparent;
+    top: 200px;
+    left: 100px;
+}
